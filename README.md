@@ -1,5 +1,4 @@
 # Free Cursor Inventory
-### Info
 Move a cursor through a destiny like inventory. Items are static from a JSON file.
 
 Built with Unreal Engine 4.23
